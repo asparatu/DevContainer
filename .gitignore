@@ -13,7 +13,7 @@
 *.userosscache
 *.sln.docstates
 
-# MonoDevelop Registry Current User
+# MonoDevelop folder files
 .mono/*
 
 # User-specific files (MonoDevelop/Xamarin Studio)
