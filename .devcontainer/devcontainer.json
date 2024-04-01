@@ -24,14 +24,14 @@
 		"vscode": {
 			"settings": {
 				"omnisharp.enableMsBuildLoadProjectsOnDemand": true,
-			"omnisharp.enableRoslynAnalyzers": true,
-			"omnisharp.enableEditorConfigSupport": true,
-			"omnisharp.enableImportCompletion": true,
-            "resmon.disk.format": "Remaining",
-	        "resmon.show.battery": false,
-	        "resmon.show.cpufreq": false,
-	        "resmon.show.disk": false,
-			"workbench.colorCustomizations": { 
+				"omnisharp.enableRoslynAnalyzers": true,
+				"omnisharp.enableEditorConfigSupport": true,
+				"omnisharp.enableImportCompletion": true,
+				"resmon.disk.format": "Remaining",
+				"resmon.show.battery": false,
+				"resmon.show.cpufreq": false,
+				"resmon.show.disk": false,
+				"workbench.colorCustomizations": { 
 				"regionmarker.background": "#ff3b9833", 
 				"regionmarker.foreground":"#ff3b98ff" 
 			}
